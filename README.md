@@ -1,6 +1,6 @@
 # Multitask Action Recognition & Captioning
 
-### **Live Demo:** The model is also live on Hugging Face Spaces: https://huggingface.co/spaces/Tehmas1012/DL_a3
+### **Live Demo:** The model is also live on Hugging Face Spaces: https://huggingface.co/spaces/Tehmas1012/Action-Recognition-and-Image-Captioning
 
 ## Project Overview
 This project implements a multitask deep learning model for action recognition and image captioning. It consists of a Flask backend serving the PyTorch model and a React frontend (Vite + Tailwind CSS) for the user interface.
